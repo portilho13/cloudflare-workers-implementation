@@ -12,6 +12,7 @@ This is a basic implementation of Cloudflare Workers, a serverless platform runn
 ## Current Supported Framworks
 
 - React
+- Angular
 
 ## Current Features
 
